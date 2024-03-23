@@ -12,7 +12,7 @@ public class Search {
 
     }
 
-    public Search(String city) {this.city = city;}
-    public String getCity() {return city ;}
+    public Search(String city) { this.city = city; }
+    public String getCity() { return city; }
 }
 
